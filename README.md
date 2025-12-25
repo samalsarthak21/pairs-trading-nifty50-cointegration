@@ -30,7 +30,7 @@ Basic cleaning:
 
 1. **Cointegration screening**
 
-   - Run Engle–Granger test on all stock pairs (435 combinations)
+   - Run Engle-Granger test on all stock pairs (435 combinations)
    - Keep pairs with p-value < 0.05 and reasonable hedge ratios |β| ∈ [0.5, 2.0]
    - Select the best pair by lowest p-value
 
@@ -76,5 +76,11 @@ The strategy behaves as a **low-volatility, market-neutral stat arb strategy** r
 - **Trading Position Over Time** (`img/position_timeline.png`)  
 - **Daily PnL Distribution** (`img/daily_pnl_hist.png`)
 
-## 5. How to Run
+## 5. Repository Structure
+
+- plots\
+- src\ main jupyter notebook
+- .gitignore
+- readme.md
+- requirements.txt
 
