@@ -70,11 +70,11 @@ The strategy behaves as a **low-volatility, market-neutral stat arb strategy** r
 
 ### Key visualizations
 
-- **Spread Z-Score and Trading Bands** (`plots/spread_zscore_bands.png`)  
-- **Pairs Strategy vs NIFTY 50** (`plots/strategy_vs_nifty.png`)  
-- **Strategy Drawdown** (`plots/drawdown.png`)  
-- **Trading Position Over Time** (`plots/position_timeline.png`)  
-- **Daily PnL Distribution** (`plots/daily_pnl_hist.png`)
+- **Spread Z-Score and Trading Bands** ![Spread Z-Score and Trading Bands](`plots/spread_zscore_bands.png`)  
+- **Pairs Strategy vs NIFTY 50** ![Pairs Strategy vs NIFTY 50](`plots/strategy_vs_nifty.png`)  
+- **Strategy Drawdown** ![Strategy Drawdown](`plots/drawdown.png`)  
+- **Trading Position Over Time** ![Trading Position Over Time](`plots/position_timeline.png`)  
+- **Daily PnL Distribution** ![Daily PnL Distribution](`plots/daily_pnl_hist.png`)
 
 ## 5. Repository Structure
 
